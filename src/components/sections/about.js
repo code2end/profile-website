@@ -157,10 +157,11 @@ const About = () => {
               </a>
               ,{' '}
               <a href="https://www.elockr.io/">
-                build a product and tech-team in profitable startup
+                build a product and tech-team in profitable startup.
               </a>
-              . My main focus these days is giving back to the community by contributing to a
-              variety of opensource projects.
+              <br />
+              My main focus these days is giving back to the community by contributing to a variety
+              of opensource projects.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

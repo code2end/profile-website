@@ -67,7 +67,7 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in building highly maintainable and scalable solutions.
-        I'm always looking to learn something new, currently I'm interested in the working of
+        I'm always looking to learn something new, currently I'm learning around the working of
         no-code platforms. I'm also looking to give back to the community by contributing to
         opensource libraries.
       </p>
