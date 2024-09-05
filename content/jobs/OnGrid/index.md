@@ -4,7 +4,7 @@ title: 'Lead Engineer'
 company: 'OnGrid'
 location: 'Boston, MA'
 range: 'Jan 2020 - Mar 2024'
-url: 'https://www.upstatement.com/'
+url: 'https://elockr.io/'
 ---
 
 - Established and directed a team of developers to craft user interfaces and API solutions, culminating in the development of an integrated trust platform leveraging verifiable credentials

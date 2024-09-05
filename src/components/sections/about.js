@@ -144,24 +144,34 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Aditya and I enjoy automating things. I started coding back in 2012
-              but my interest in development peaked when I learnt around how RDBMS came into
-              existence and how products and tools can save time and make us more productive.
+              Hey, I'm Aditya. I started coding back in 2012 but my interest in development peaked
+              when I learnt around how RDBMS came into existence and how products and tools starting
+              saving us time and make us more productive.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.fiserv.com/">a big finance product</a>,{' '}
-              <a href="https://inc42.com/buzz/growthex-acquires-edtech-leapwired/">
+              <a href="https://www.fiserv.com/" target="_blank" rel="noreferrer">
+                a big finance product
+              </a>
+              ,{' '}
+              <a
+                href="https://inc42.com/buzz/growthex-acquires-edtech-leapwired/"
+                target="_blank"
+                rel="noreferrer">
                 build my own start-up which was acquired
               </a>
               ,{' '}
-              <a href="https://www.elockr.io/">
+              <a href="https://www.elockr.io/" target="_blank" rel="noreferrer">
                 build a product and tech-team in profitable startup.
               </a>
               <br />
-              My main focus these days is giving back to the community by contributing to a variety
-              of opensource projects.
+              <br />
+              These days I'm experimenting with SSR, tRPC, SSG, Next, Nest and other JS stacks for
+              developing modern websites. I'm also particularly excited about data engineering,
+              especially in the realm of real-time data processing, where the challenge of
+              efficiently handling and analysing streaming data fuels my passion for creating
+              impactful solutions.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
